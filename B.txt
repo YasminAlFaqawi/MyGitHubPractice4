@@ -1,2 +1,3 @@
 BBBB
 line from hub
+line from my-new feature
